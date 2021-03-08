@@ -1,4 +1,4 @@
-# HW11 - RiskyBusiness
+# HW 11 - Risky Business
  
 ## Resampling
 
