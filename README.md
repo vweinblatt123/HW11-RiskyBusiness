@@ -1,18 +1,18 @@
-# HW 11 - Risky Business
+# HW11 - Risky Business
  
 ## Resampling
 
 *Which model had the best balanced accuracy score?*
 
-The two undersampling models have the best balanced accuracy score at 99.37%.
+The two oversampling models have the best balanced accuracy score at 99.37%.
 
 *Which model had the best recall score?*
 
-The two undersampling models have the best recall score at 99.38%.
+The two oversampling models have the best recall score at 99.38%.
 
 *Which model had the best geometric mean score?*
 
-The two undersampling models have the best geometric mean score at 99.37%.
+The two oversampling models have the best geometric mean score at 99.37%.
 
 ## Ensemble Learning
 
